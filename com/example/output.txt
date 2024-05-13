@@ -1,0 +1,4 @@
+[1, 1, 2, 3, 7, 9, 9, 12, 16446, 44471, 983641, 9839293, 91387811]
+Can only enter space-separated integers!
+[1, 4, 16, 321, 3232, 13764, 23232, 32332, 64836, 68421]
+Can only enter space-separated integers!
